@@ -1,7 +1,7 @@
 {
   "name": "angular-form-field",
   "main": "angular-form-field.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/ant0ha/angular-form-field",
   "authors": [
     "Anton Pisarenko <antpisar@gmail.com>"

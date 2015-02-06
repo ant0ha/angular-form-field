@@ -23,7 +23,7 @@ angular.module('angular-form-field', [])
 
         // Load a template, possibly from the $templateCache, and instantiate a DOM element from it
         function loadTemplate(template) {
-            
+
             template = FormField.defaults.templatesPath + template + FormField.defaults.templatesSuffix;
 
             return $http.get(template, {cache:$templateCache}).then(function(response) {
