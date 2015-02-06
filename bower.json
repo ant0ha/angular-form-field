@@ -1,0 +1,23 @@
+{
+  "name": "angular-form-field",
+  "main": "angular-form-field.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ant0ha/angular-form-field",
+  "authors": [
+    "Anton Pisarenko <antpisar@gmail.com>"
+  ],
+  "description": "A directive for creating slim form fields",
+  "keywords": [
+    "angularjs",
+    "form",
+    "field"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
